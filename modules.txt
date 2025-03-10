@@ -1,0 +1,4 @@
+discord.js
+ms
+mathjs
+quick.db
