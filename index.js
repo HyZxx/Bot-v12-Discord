@@ -60,4 +60,4 @@ client.on('webhookUpdate', async (channel) => {
 });
 
 
-client.login(gifworld);
+client.login(tokenbot);
